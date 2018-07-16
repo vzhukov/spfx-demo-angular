@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "spfx-rest-api-query",
+    "libraryId": "d10b396b-4435-4d16-860a-6e1f8635e73b",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
